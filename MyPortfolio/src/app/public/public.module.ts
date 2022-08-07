@@ -10,7 +10,7 @@ import { LoginComponent } from './login/containers/login.component';
 @NgModule ({
     imports: [
         PublicRoutingModule,
-        SharedModule,
+        SharedModule
     ],
     declarations: [
         PublicComponent,
